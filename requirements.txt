@@ -1,6 +1,6 @@
+speedtest-cli
 requests
 termcolor
-time
-os
-speedtest-cli
-webbrowser
+timezonefinder
+pytz
+
