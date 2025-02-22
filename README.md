@@ -9,5 +9,5 @@ justFun is a simple tool to make things easier for you that might not be very us
 2. ls
 3. cd justFun
 4. ls
-5. pip install -r requirements.txt (python/python3)
+5. pip install -r requirements.txt 
 6. python3 run.py
