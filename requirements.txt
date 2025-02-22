@@ -1,6 +1,4 @@
 speedtest-cli
 requests
 termcolor
-timezonefinder
-pytz
 
