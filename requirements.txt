@@ -4,5 +4,3 @@ time
 os
 speedtest-cli
 webbrowser
-timezonefinder
-pytz
